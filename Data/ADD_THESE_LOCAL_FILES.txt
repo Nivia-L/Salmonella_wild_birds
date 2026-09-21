@@ -1,0 +1,7 @@
+Copy these files from the final local second-revision folder into this Data/ folder before uploading to GitHub:
+
+- Data-RSalmonella.RData
+- Supplementary_Table_S1_metadata.csv
+- Supplementary_Table_S2_Source_distribution.csv
+- Supplementary_Table_S3_Genomes_used_in_genomic_analysis.csv
+- snp_tree_2023-09-04.nwk
